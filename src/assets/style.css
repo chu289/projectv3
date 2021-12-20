@@ -576,14 +576,12 @@ top: 1152px;
   background: url('./o.png') no-repeat center center / cover;
 }
 
-/* 服 務 項 目 */
 .home .content3__title{
   position: absolute;
 width: 163px;
 height: 418.07px;
 right: 0px;
 top: 250px;
-/* background-color: blueviolet; */
 }
 
 .home .content3__title h3{
